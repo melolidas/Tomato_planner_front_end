@@ -12,7 +12,7 @@ const badge = tv({
 	variants: {
 		backgroundColor: {
 			gray: 'bg-gray-500/20',
-			high: 'bg-red-400/60',
+			high: 'bg-red',
 			medium: 'bg-orange-400/70',
 			low: 'bg-blue-400/70'
 		}
